@@ -33,7 +33,7 @@ object Dependencies {
     "io.circe"                  %% "circe-generic"         % DependencyVersions.Circe,
     "io.circe"                  %% "circe-parser"          % DependencyVersions.Circe,
     "com.typesafe.scala-logging"    %% "scala-logging" % DependencyVersions.ScalaLogging,
-    "ch.qos.logback" % "logback-classic" % "1.2.3",
+    "ch.qos.logback" % "logback-classic" % "1.2.13",
     "com.github.pureconfig"     %% "pureconfig"            % DependencyVersions.PureConfig,
     "io.monix" %% "monix-bio" % "1.1.0",
     "io.monix" %% "monix-kafka-1x" % DependencyVersions.MonixKafka,
@@ -44,7 +44,7 @@ object Dependencies {
     "io.monix"                  %% "monix-mongodb"         % DependencyVersions.MonixConnect,
     "io.monix" %% "monix-redis" % DependencyVersions.MonixConnect,
     "com.typesafe.scala-logging" %% "scala-logging" % DependencyVersions.ScalaLogging,
-    "ch.qos.logback" % "logback-classic" % "1.2.3",
+    "ch.qos.logback" % "logback-classic" % "1.2.13",
     "com.github.pureconfig"     %% "pureconfig"            % DependencyVersions.PureConfig,
     "io.monix" %% "monix-kafka-1x" % DependencyVersions.MonixKafka
   )
@@ -54,7 +54,7 @@ object Dependencies {
     "io.monix"                  %% "monix-s3"         % DependencyVersions.MonixConnect,
     "io.monix" %% "monix-redis" % DependencyVersions.MonixConnect,
     "com.typesafe.scala-logging" %% "scala-logging" % DependencyVersions.ScalaLogging,
-    "ch.qos.logback" % "logback-classic" % "1.2.3",
+    "ch.qos.logback" % "logback-classic" % "1.2.13",
     "com.github.pureconfig"     %% "pureconfig"            % DependencyVersions.PureConfig,
     "io.monix" %% "monix-bio" % "1.1.0",
     "io.circe"                  %% "circe-core"            % DependencyVersions.Circe,
